@@ -144,10 +144,31 @@ p{
     padding: 10px;
 }
 
-.container{
+.text-box1{
     text-align: center;
 }
 
+.container{
+    text-align: center;
+    background: hotpink;
+    width: 50%;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    margin-left: 350px;
+}
+
+.skill{
+    background-color: black;
+    color: hotpink;
+    padding: 1%;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.progress-bar{
+    text-align: center;
+}
 .services{
     width: 80%;
     margin: auto;
